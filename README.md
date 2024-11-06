@@ -17,7 +17,7 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
   - [TCP and UDP](#tcp-and-udp)
   - [Domain Name System (DNS)](#domain-name-system-dns)
   - [Load Balancing](#load-balancing)
-  - [Clustering](#clustering)
+  - [Clustering](#clustering) 
   - [Caching](#caching)
   - [Content Delivery Network (CDN)](#content-delivery-network-cdn)
   - [Proxy](#proxy)
